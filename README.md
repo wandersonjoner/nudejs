@@ -1,7 +1,7 @@
 # nudejs
-Detector de nudes com a biblioteca nude.js by Patrick, source: https://www.patrick-wied.at/static/nudejs/                       
-Biblioteca nude.js proporciona a identiificacao de 93% de pele que conrresponde a uma foto nude                           
-É um pequeno sistema desenvolvido em JavaScript                                                                                 
+Detector de nudes com a biblioteca nude.js by Patrick, source: https://www.patrick-wied.at/static/nudejs/                                                                                                                                                         
+Biblioteca nude.js proporciona a identiificacao de 93% de pele que conrresponde a uma foto nude                                                                                                                               
+É um pequeno sistema desenvolvido em JavaScript                                                                                                                                                                                                                    
 1 - baixe o zip do projeto                                                                                                                                                                                             
 2 - no terminal navegue até a pasta nudejs-master                                                                         
 3 - instale o http-server com o comando npm install http-server -g                                                               
